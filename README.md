@@ -87,6 +87,7 @@ Name: John Doe
 Phone: 1234567890
 Email: john@example.com
 ✅ Contact added successfully
+
 ---
 
 ### License 📝
@@ -96,6 +97,7 @@ Author
 
 Mayank Kapoor
 GitHub: https://github.com/kapoormayank9696
+
 ---
 
 If you want, I can also **make a shorter, more attractive GitHub-ready version** that looks modern with badges for Java, MySQL, and license.  
