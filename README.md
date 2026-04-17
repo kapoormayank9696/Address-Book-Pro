@@ -59,7 +59,7 @@ AddressBookPro/
 CREATE DATABASE cms;
 USE cms;
 
-## 2. Create Contact Table
+## 1. Create Contact Table
 CREATE TABLE contact (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
@@ -67,13 +67,14 @@ CREATE TABLE contact (
     email VARCHAR(255) UNIQUE NOT NULL
 );
 
-## 3. Update DBConnection.java with your MySQL credentials
+```
+
+## 2. Update DBConnection.java with your MySQL credentials
 private static final String url = "jdbc:mysql://127.0.0.1:3306/cms";
 private static final String username = "root";
 
-```
 private static final String password = "YOUR_PASSWORD";
-## 4. How to Run
+## 3. How to Run
 
 Usage Example
 =========CONTACT MANAGEMENT SYSTEM==========
