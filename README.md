@@ -70,6 +70,8 @@ CREATE TABLE contact (
 ## 3. Update DBConnection.java with your MySQL credentials
 private static final String url = "jdbc:mysql://127.0.0.1:3306/cms";
 private static final String username = "root";
+
+```
 private static final String password = "YOUR_PASSWORD";
 ## 4. How to Run
 
