@@ -1,7 +1,7 @@
-package Contact_Management_System.DAO;
+package Contact_Management_System.src.DAO;
 
-import Contact_Management_System.util.DBConnection;
-import Contact_Management_System.model.Contact;
+import Contact_Management_System.src.util.DBConnection;
+import Contact_Management_System.src.model.Contact;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

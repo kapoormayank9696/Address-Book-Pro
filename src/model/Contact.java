@@ -1,4 +1,4 @@
-package Contact_Management_System.model;
+package Contact_Management_System.src.model;
 
 public class Contact {
     // Private Access Modifier And Data Members

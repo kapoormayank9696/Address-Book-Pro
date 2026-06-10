@@ -1,8 +1,8 @@
-package Contact_Management_System;
+package Contact_Management_System.src;
 
 
-import Contact_Management_System.model.Contact;
-import Contact_Management_System.service.ContactService;
+import Contact_Management_System.src.model.Contact;
+import Contact_Management_System.src.service.ContactService;
 
 import java.sql.SQLException;
 import java.util.Scanner;

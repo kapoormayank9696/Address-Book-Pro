@@ -1,4 +1,4 @@
-package Contact_Management_System.util;
+package Contact_Management_System.src.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
